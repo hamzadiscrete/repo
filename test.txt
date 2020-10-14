@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 28F0-80A2
+
+ Directory of C:\My Project
+
+14-Oct-20  02:45 PM    <DIR>          .
+14-Oct-20  02:45 PM    <DIR>          ..
+14-Oct-20  02:45 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  115,984,543,744 bytes free
